@@ -1,0 +1,79 @@
+.snapshot-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.snapshot-header {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+.snapshot-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.metric-card {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.metric-card .value {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+.metric-card .value.danger {
+  color: #dc3545;
+}
+
+.metric-card .value.safe {
+  color: #28a745;
+}
+
+.ai-controls {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ai-controls button {
+    padding: 10px 20px;
+    border: none;
+    background: #e9ecef;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.ai-controls button.active {
+    background: #007bff;
+    color: white;
+}
+
+.ai-content-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    min-height: 200px;
+    line-height: 1.6;
+}

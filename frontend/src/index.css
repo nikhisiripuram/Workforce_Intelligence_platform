@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Custom Utilities if needed */
+body {
+    @apply bg-slate-50 text-slate-900;
+    font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+}

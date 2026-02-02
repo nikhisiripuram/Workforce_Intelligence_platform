@@ -1,0 +1,27 @@
+.empty-state {
+  padding: 60px;
+  text-align: center;
+  background: #f9fafb;
+  border: 1px dashed #d0d5dd;
+  border-radius: 8px;
+}
+
+.empty-state h2 {
+  margin-bottom: 8px;
+  color: #101828;
+}
+
+.empty-state p {
+  color: #475467;
+}
+
+.empty-hint {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #667085;
+}
+
+.empty-hint ol {
+  display: inline-block;
+  text-align: left;
+}

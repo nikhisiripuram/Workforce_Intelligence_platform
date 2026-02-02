@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+backend/requirements.txt
+# (Wait, I'll keep requirements.txt, but ignore venv)
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
+*.log
+seed_log.txt
+
+# OS
+.DS_Store
+Thumbs.db

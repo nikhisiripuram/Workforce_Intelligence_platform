@@ -1,0 +1,13 @@
+name,email,department,base_salary,working_hours
+Alice Smith,alice.smith@example.com,Engineering,50150.04,160.0
+Bob Jones,bob.jones@example.com,Sales,52238.90,160.0
+Charlie Brown,charlie.brown@example.com,Product,54297.33,160.0
+Diana Prince,diana.prince@example.com,Marketing,55470.12,160.0
+Ethan Hunt,ethan.hunt@example.com,HR,57122.98,160.0
+Fiona Apple,fiona.apple@example.com,Engineering,62431.11,160.0
+George Miller,george.miller@example.com,Sales,64100.22,160.0
+Hannah Abbott,hannah.abbott@example.com,Product,65981.44,160.0
+Ian Wright,ian.wright@example.com,Marketing,66210.05,160.0
+Jenny Slate,jenny.slate@example.com,HR,69822.41,160.0
+Kevin Hart,kevin.hart@example.com,Engineering,72110.55,160.0
+Laura Palmer,laura.palmer@example.com,Sales,74933.1,160.0
