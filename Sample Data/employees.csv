@@ -1,13 +1,13 @@
 name,email,department,base_salary,working_hours
-Arjun Rao,arjun.rao@company.com,Engineering,65000,176
-Meera Iyer,meera.iyer@company.com,Engineering,72000,168
-Rohit Sharma,rohit.sharma@company.com,Finance,90000,184
-Ananya Gupta,ananya.gupta@company.com,HR,55000,160
-Vikram Patel,vikram.patel@company.com,Engineering,80000,180
-Pooja Nair,pooja.nair@company.com,HR,52000,158
-Sandeep Verma,sandeep.verma@company.com,Finance,88000,182
-Kavya Reddy,kavya.reddy@company.com,Engineering,75000,170
-Amit Khanna,amit.khanna@company.com,Operations,60000,176
-Neha Singh,neha.singh@company.com,Operations,58000,168
-Rahul Mehta,rahul.mehta@company.com,Engineering,82000,185
-Shruti Das,shruti.das@company.com,Finance,91000,188
+Alice Smith,alice.smith@example.com,Engineering,50150.04,160.0
+Bob Jones,bob.jones@example.com,Sales,52238.90,160.0
+Charlie Brown,charlie.brown@example.com,Product,54297.33,160.0
+Diana Prince,diana.prince@example.com,Marketing,55470.12,160.0
+Ethan Hunt,ethan.hunt@example.com,HR,57122.98,160.0
+Fiona Apple,fiona.apple@example.com,Engineering,62431.11,160.0
+George Miller,george.miller@example.com,Sales,64100.22,160.0
+Hannah Abbott,hannah.abbott@example.com,Product,65981.44,160.0
+Ian Wright,ian.wright@example.com,Marketing,66210.05,160.0
+Jenny Slate,jenny.slate@example.com,HR,69822.41,160.0
+Kevin Hart,kevin.hart@example.com,Engineering,72110.55,160.0
+Laura Palmer,laura.palmer@example.com,Sales,74933.1,160.0
