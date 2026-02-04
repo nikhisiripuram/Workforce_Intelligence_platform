@@ -32,5 +32,4 @@ A high-performance HR dashboard and manager portal designed for real-time workfo
 ## 📊 Sample Data
 Current employee data is stored in `Sample Data/employees.csv`. This file is synchronized with the latest `2026-02` payroll snapshot.
 
----
-*Created with ❤️ by the Antigravity Team.*
+
